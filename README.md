@@ -1,21 +1,3 @@
-[
-  {
-    "id": 900000000000000004,
-    "name": "Aniyomi: Bato Mirror Network",
-    "pkg": "eu.kanade.tachiyomi.extension.all.batomirror",
-    "version": "1.0.0",
-    "lang": "all",
-    "sources": [
-      { "lang": "all", "source": "ato.to", "baseUrl": "https://ato.to" },
-      { "lang": "all", "source": "dto.to", "baseUrl": "https://dto.to" },
-      { "lang": "all", "source": "fto.to", "baseUrl": "https://fto.to" },
-      { "lang": "all", "source": "hto.to", "baseUrl": "https://hto.to" },
-      { "lang": "all", "source": "jto.to", "baseUrl": "https://jto.to" },
-      { "lang": "all", "source": "lto.to", "baseUrl": "https://lto.to" },
-      { "lang": "all", "source": "mto.to", "baseUrl": "https://mto.to" },
-      { "lang": "all", "source": "nto.to", "baseUrl": "https://nto.to" },
-      { "lang": "all", "source": "vto.to", "baseUrl": "https://vto.to" },
-      { "lang": "all", "source": "wto.to", "baseUrl": "https://wto.to" },
       { "lang": "all", "source": "xto.to", "baseUrl": "https://xto.to" },
       { "lang": "all", "source": "yto.to", "baseUrl": "https://yto.to" },
       { "lang": "all", "source": "vba.to", "baseUrl": "https://vba.to" },
